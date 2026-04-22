@@ -1,0 +1,9 @@
+git init
+git add
+git commit -m "Iniial commit"
+git remote and origin <repo-url>
+git branch -M main
+git push -u origin main
+git config --global user.name "gourinandavs014-ctrl"
+git config --global user.email "gourinandavs014@gmail.com"
+
