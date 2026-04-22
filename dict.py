@@ -1,0 +1,9 @@
+dict={"name":"goury",
+      "age":19,
+      "height":155.5,
+      "result":"true"
+      }
+dict["weight"]=45
+print(dict)
+dict.pop("age")
+print(dict)
