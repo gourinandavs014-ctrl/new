@@ -1,0 +1,11 @@
+list=["blue","yellow","red","pink","green"]
+print(list)
+print(list[0])
+list.append("white")
+print(list)
+list.pop(5)
+print(list)
+list.remove("blue")
+print(list)
+list[2]="brown"
+print(list)
